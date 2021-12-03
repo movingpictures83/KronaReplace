@@ -1,0 +1,2 @@
+Prefix plugins/KronaReplace/example/
+Plugin KronaReplace inputfile parameters.txt outputfile input.processed.krona
